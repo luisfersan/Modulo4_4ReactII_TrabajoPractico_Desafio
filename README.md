@@ -1,7 +1,7 @@
 # 🍕 Pizzería Mamma Mia!!
 
 ## 🚀 Deploy
-https://adl-mamma-mia.netlify.app/
+
 
 ## ✅ Objetivos
 - Crear vistas y componentes para Home, detalle de pizza y carrito
@@ -12,7 +12,6 @@ comprar
 - Calcular el total de la compra y mostrarlo en los componentes que correspondan
 
 ## 🛠 Tecnologias
-![Vite](https://camo.githubusercontent.com/e171666dc3cf807edd566c24e542ba68f9c3caed38567aa8a615cfb283df8862/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266d6573736167653d566974654a5326636f6c6f723d707572706c65266c6f676f3d76697465266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
