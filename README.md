@@ -1,4 +1,4 @@
-# 🍕 Pizzería Mamma Mia!!
+# Pizzería Mamma Mia!!
 
 ## 🚀 Deploy
 
