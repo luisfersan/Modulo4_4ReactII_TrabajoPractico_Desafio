@@ -2,7 +2,7 @@
 
 ## Presentación de Página Web
 
-![Presentación Página Web](./public/img-readme.jpg)
+![Presentación Página Web](./public/img-readme.png)
 <br/>
 
 ---
